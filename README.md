@@ -1,5 +1,7 @@
-### 💻 Welcome to the AreiTools Repo. 💻
+### 💻 Welcome to the AreiTools Github Page. 💻
 
+
+Software is at **https://github.com/areitools/AreiTools**
 <!--
 **areitools/AreiTools** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
