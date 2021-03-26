@@ -7,7 +7,7 @@ AreiTools can:
 Fix problems like - 🔊 Audio, 📡 Network, 🖨️ Printing, 🎲 Apps not opening, And more.
 More apperance and personalization settings for Windows.
 And more!
-<h3 style="color:#ff0000">Danger</h3>
+<h3 style="color:#ff0050">Danger</h3>
 
 ```diff
 
