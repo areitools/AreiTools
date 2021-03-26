@@ -1,4 +1,4 @@
-# AreiTools-Beta
+# AreiTools
 
 AreiTools is a multipurpose software tool for windows.
 
