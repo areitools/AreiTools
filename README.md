@@ -9,5 +9,5 @@ More apperance and personalization settings for Windows.
 And more!
 
 ```diff
-- hello
-`
+
+- AreiTools IS IN BETA AND MAY HAVE SOME BUGS. Report them to toolsarei@gmail.com
