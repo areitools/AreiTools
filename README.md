@@ -2,6 +2,8 @@
 
 AreiTools is a multipurpose software tool for windows.
 
+![Capture](https://user-images.githubusercontent.com/80171286/112752629-dafbcc00-8fcb-11eb-8dc0-977da9f2f952.PNG)
+
 AreiTools can:
 
 Fix problems like - 🔊 Audio, 📡 Network, 🖨️ Printing, 🎲 Apps not opening, And more.
