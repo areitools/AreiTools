@@ -10,5 +10,5 @@ And more!
 
 
 ```diff
-
+- Release date : 3 April 2021
 - AreiTools IS IN BETA AND MAY HAVE SOME BUGS. Report them to toolsarei@gmail.com
